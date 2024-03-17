@@ -3,4 +3,4 @@
 ### by Matthew Fante
 
 ### Data Collection:
-_All data services are provided via Google Cloud; the app does not store user-generated data locally._
+_All data services are provided via Google Cloud; the app does not store user-generated data locally. A sample object for all each NoSQL class in the data model will be added to this directory._
