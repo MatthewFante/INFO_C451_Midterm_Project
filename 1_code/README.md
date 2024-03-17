@@ -1,16 +1,25 @@
-# untitled
+# Sheltr🐾
+### Midterm Project Submission for INFO-C451: System Implementation (Spring 2024)
+### by Matthew Fante
 
-A new Flutter project.
+## Source Code:
+_The working repository for Sheltr is located [here](https://github.com/MatthewFante/Sheltr). The files in this directory represents a snapshot of Sheltr/lib represent [commit point 820ffd2](https://github.com/MatthewFante/Sheltr/commit/820ffd257f8aa08bc82bb0b20ad58a3aa770f9d4)._
 
-## Getting Started
+## How to deploy the app:
+* Prerequisites:
+  * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
+  * [Android Studio with the Flutter Plugin](https://docs.flutter.dev/get-started/install) installed
+  * iOS Simulator (Mac Only, installed as part of xCode) or Android Emulator (Installed as part of Android Studio)
 
-This project is a starting point for a Flutter application.
+* Clone the repository: 
 
-A few resources to get you started if this is your first Flutter project:
+        git clone https://github.com/MatthewFante/Sheltr/commit/820ffd257f8aa08bc82bb0b20ad58a3aa770f9d4`
+* Open as Existing Project in Android Studio
+* Get Dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+        flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+* In Android Studio, select a target emulator device and press the RUN WITH DEBUG (Play) Button to compile and start the app 
+
+
